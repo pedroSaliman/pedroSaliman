@@ -1,7 +1,7 @@
 Hi 👋, I'm mohamed mahmoud saliman
 software automation test engineer from Egypt
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroSaliman)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroSaliman&theme=blue-green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🌱 I’m currently learning ...cypress and playwright
