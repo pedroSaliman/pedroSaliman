@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **cypress and playwright**
 
-- 👯 I’m looking to collaborate on **with other people**
+- 👯 I’m looking to collaborate  **with other people**
 
 - 📫 How to reach me **salimanmohamed20@gmail.com**
 
