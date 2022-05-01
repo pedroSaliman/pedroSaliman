@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mahmoud Saliman</h1>
 <h3 align="center">software automation test engineer from Egypt</h3>
-<img align="right" alt="Coding" width="400" src='https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif'>
+<img align="right" alt="Coding" width="500" src='https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrosaliman&label=Profile%20views&color=0e75b6&style=flat" alt="pedrosaliman" /> </p>
 
 - 🌱 I’m currently learning **cypress and playwright**
