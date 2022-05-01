@@ -22,6 +22,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrosaliman&theme=gruvbox_light&show_icons=true&locale=en" alt="pedrosaliman" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrosaliman&" alt="pedrosaliman" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrosaliman&theme=dark" alt="pedrosaliman" /></p>
 
 
